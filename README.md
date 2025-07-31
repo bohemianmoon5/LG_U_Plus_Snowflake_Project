@@ -1,1 +1,1 @@
-# LG_U_Plus_Snowflake_Project
+# LG Uplus_Snowflake_Project
