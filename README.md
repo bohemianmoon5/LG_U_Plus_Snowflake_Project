@@ -1,1 +1,1 @@
-# LG_U-_Snowflake_Project
+# LG_U_Plus_Snowflake_Project
